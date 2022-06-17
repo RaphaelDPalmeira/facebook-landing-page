@@ -27,7 +27,6 @@ body {
 
 .description {
     margin-top: -20px;
-    text-align: justify;
 }
 
 .align {
@@ -174,7 +173,7 @@ body {
 @media (max-width: 1076px){
 
     .description {
-        font-size: 24px;
+        font-size: 1.4em;
         text-align: justify;
     }
 }
